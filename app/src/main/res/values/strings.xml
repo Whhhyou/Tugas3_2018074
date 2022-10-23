@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tugas3_Sepeda</string>
+    <string name="deskription_Sepeda">deskriptionmenu</string>
+    <string name="ingredients">ingredients</string>
+    <string name="price">price</string>
+    <string name="Harga_sepeda">Rp. 50.000.000</string>
+    <string name="Spesifikasi">S I-Get 150 ABS</string>
+    <string name="deskription_sepeda">deskriptionsepeda</string>
+</resources>
